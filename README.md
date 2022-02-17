@@ -1,7 +1,13 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge) 
+
 <img src="./assets/form2.gif">
+
+## 📄 Resumo
 
 Formulário feito para treinamento com animações básicas em CSS.
 
-Caso queira ver como ficou na pŕatica:
+## ✔️ Tecnologias utilizadas
 
-**https://rafaelftourinho.github.io/formulario2/**
+- ``HTML5``
+- ``CSS3``
+
